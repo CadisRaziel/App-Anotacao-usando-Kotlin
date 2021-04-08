@@ -1,0 +1,22 @@
+Criamos o projeto utilizando um template aonde ja vinha com o botão na tela inicial
+
+ele cria 4 layouts e 4 telas, então excluimos 2 layouts e 3 telas
+
+1 layout tem o botao e o edit text
+1 layout tem o status bar
+
+
+
+aprendemos a utilizar o Shared Preference que é igual o AsyncStorage do react native
+ele faz com que podemos armazenar coisas na memoria do celular do usuario sem a necessidade de um banco de dados
+coisas poucas claro.
+
+
+aprendemos a criar uma classe de kotlin
+ //criando o PreferenciaAnotacao.kt
+        //para criar uma kotlin class
+        //acesse a pasta "java" > com o botão direito clique sobre "com.example.blocodenotas"
+        //em seguida vá no "new" > "Kotlin class" e pronto é só digitar o nome
+        
+        
+ e o restante das anotaçoes esta no codigo =D
